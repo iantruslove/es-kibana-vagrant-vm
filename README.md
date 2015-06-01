@@ -12,6 +12,9 @@ Use
 Prerequisites:
 
 * Vagrant
+* vagrant-vbguest plugin
+  * `vagrant plugin install vagrant-vbguest` - see
+    [here](https://github.com/dotless-de/vagrant-vbguest) for details.
 
 Clone this project to local machine and run
 
